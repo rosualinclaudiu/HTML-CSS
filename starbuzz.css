@@ -1,4 +1,4 @@
-body{background-color: greenyellow;
+body{background-color: yellow;
     font-style: italic;
 }
     
@@ -12,5 +12,9 @@ h2{
 }
 h3{
     color: red;
+    text-align: center;
+}
+p{
+    color: blue;
     text-align: center;
 }
