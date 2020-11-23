@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap');
 body{background-color: yellow;
     font-style: italic;
     text-align: center;
@@ -9,13 +9,14 @@ body{background-color: yellow;
 h1{
     color: orange;
     text-align: center;
+    font-weight: bold;
     font-size: 1.5em;
     font-family: 'Noto Sans JP', sans-serif;
 }
 h2{
     color: mediumaquamarine;
     text-align: center;
-    font-weight: bold;
+    font-weight: bolder;
     font-size: 130%;
 }
 h3{
@@ -26,7 +27,4 @@ h3{
 p{
     color: blue;
     text-align: center;
-}
-img{
-    align-items: center;
 }
