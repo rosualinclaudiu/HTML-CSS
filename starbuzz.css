@@ -35,6 +35,7 @@ p{
     text-align: center;
     font-family: 'Dancing Script', cursive;
 }
-id1{
+#pret-vechi{
     text-decoration: line-through;
+    font-size: 0.8em;
 }
