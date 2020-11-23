@@ -26,11 +26,12 @@ h3{
     color: red;
     text-align: center;
     font-size: 90%;
+    
 }
 p{
     color: blue;
     text-align: center;
 }
-#id1{
+id1{
     text-decoration: line-through;
 }
