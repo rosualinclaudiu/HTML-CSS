@@ -3,6 +3,7 @@ body{background-color: yellow;
     font-style: italic;
     text-align: center;
     font-size: 20px;
+    scroll-behavior: smooth;
 
 }
     
@@ -25,9 +26,9 @@ h3{
     color: red;
     text-align: center;
     font-size: 90%;
-    text-decoration: line-through;
 }
 p{
     color: blue;
     text-align: center;
 }
+#id 
