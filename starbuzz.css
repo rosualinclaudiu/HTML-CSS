@@ -39,3 +39,14 @@ p{
     text-decoration: line-through;
     font-size: 0.8em;
 }
+img{
+    display: block;
+}
+blockquote{
+    font-size: 1.2em;
+    font-style: italic;
+    color: lime;
+    text-decoration-style: wavy;
+    text-decoration-line: underline;
+    text-decoration-color: magenta;
+}
