@@ -36,9 +36,10 @@ p{
     font-family: 'Dancing Script', cursive;
 }
 ul{
+    font-size: 1.2em;
     text-align: left;
     color: mediumblue;
-    list-style-type: symbols();
+    list-style-type: '😄 ';
 }
 #pret-vechi{
     text-decoration: line-through;
