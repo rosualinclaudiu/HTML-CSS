@@ -37,6 +37,8 @@ p{
 }
 ul{
     text-align: left;
+    color: mediumblue;
+    list-style-type: symbols();
 }
 #pret-vechi{
     text-decoration: line-through;
