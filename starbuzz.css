@@ -5,8 +5,10 @@ body{background-color: yellow;
     font-size: 20px;
     scroll-behavior: smooth;
 
+}  
+h1, h2{
+    text-decoration: underline;
 }
-    
 h1{
     color: orange;
     text-decoration: blue;
@@ -20,7 +22,6 @@ h2{
     text-align: center;
     font-weight: bolder;
     font-size: 200%;
-    text-decoration: underline;
     font-family: 'Dancing Script', cursive;
 }
 h3{
