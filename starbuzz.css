@@ -35,7 +35,8 @@ h3{
     text-align: center;
     font-size: 130%;
     font-family: 'Dancing Script', cursive;
-    
+    text-decoration-line: underline;
+    text-decoration-color: red;
 }
 h4{
     color: red;
@@ -94,4 +95,8 @@ blockquote{
     background-color: lime;
     border-bottom-color: red;
     
+}
+.primul-cuvant{
+    color: red;
+    text-decoration-line: underline;
 }
