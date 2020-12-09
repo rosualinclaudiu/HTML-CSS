@@ -85,13 +85,13 @@ blockquote{
     text-decoration-line: underline;
     text-decoration-color: yellow;
     border-style: solid;
-    border-color: red;
+    border-color: steelblue;
     border-radius: 20px;
     padding: 0.1em;
-    margin-left: 23em;
+    margin: 2em auto 2em auto;
     width: fit-content;
-    height: 2.5em;
+    height: 3em;
     background-color: lime;
-    border-bottom-color: mediumblue;
+    border-bottom-color: red;
     
 }
