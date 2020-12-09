@@ -1,20 +1,48 @@
+body{
+    background-color: teal;
+    height: 200vh;
+    width: 120vw;
+}
 div{
     width: 5em;
     height: 5em;
     font-family: sans-serif;
-    color: white;
-    text-align: center;
     
+    text-align: center;
+    line-height: 5em;
 }
 #a{
     background-color: blue;
+    position: relative;
+    top: 1em;
+    right: -1em;
 }
 #b{
     background-color: yellow;
+    position: absolute;
+    top: 3em;
+    right: 2em;
 }
 #c{
     background-color: red;
+    position: fixed;
+    top: 0;
+    left: 50%;
 }
 #d{
     background-color: springgreen;
+    position: sticky;
+    top: 1em;
+}
+#parinte{
+    text-align: right;
+width: 10em;
+height: 10em;
+background-color: violet;
+position: relative;
+}
+#copil{
+background-color: maroon;
+position: absolute;
+top: 2em;
 }
