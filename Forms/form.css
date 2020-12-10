@@ -7,4 +7,10 @@ button{
 }
 label{
     font-family: sans-serif;
+    display: block;
+}
+select{
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 2em
 }
