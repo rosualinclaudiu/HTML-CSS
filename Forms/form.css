@@ -4,6 +4,17 @@ input{
 }
 button{
     display: block;
+    margin-top: 1em;
+    /*
+        schimbam stilul butonului
+    */
+    background-color: greenyellow;
+    background: linear-gradient(90deg, rgba(42,213,42,1) 0%, rgba(126,250,7,1) 41%, rgba(0,212,255,1) 100%);
+    border-style: none;
+    padding: 0.5em;
+    color: blue;
+    border-radius: 0.5em;
+    width: 7em;
 }
 label{
     font-family: sans-serif;
@@ -12,5 +23,5 @@ label{
 select{
     display: block;
     margin-top: 0.5em;
-    margin-bottom: 2em
+    margin-bottom: 0.5em
 }
