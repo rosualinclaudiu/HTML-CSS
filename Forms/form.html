@@ -1,12 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Forms Example</title>
     <link rel="stylesheet" href="form.css">
 </head>
+
 <body>
-    <form action="" method="post"></form>
+    <form action="" method="post">
+        <label for="first-name">First name</label>
+        <input type="text" name="first-name" id="first-name" placeholder="Your Name">
+
+        <label for="gender">F</label>
+        <input type="radio" name="Gender" id="gender">
+        <label for="gender">M</label>
+        <input type="radio" name="Gender" id="gender">
+        <label for="gender">Other</label>
+        <input type="radio" name="Gender" id="gender">
+
+        <label for="extra">Do you want extra options?</label>
+        <input type="checkbox" name="extra" id="extra">
+
+        <button type="submit">Send</button>
+    </form>
 </body>
+
 </html>
