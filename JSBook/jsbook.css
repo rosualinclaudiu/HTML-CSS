@@ -1,0 +1,38 @@
+/* 
+CSS Reset
+*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(54, 54, 54);
+    text-align: center;
+    padding: 1em;
+}
+li{
+    display: inline;
+}
+a{
+    color: rgb(200, 200, 200);
+    text-decoration: none;
+    margin-right: 1.5em;
+}
+article{
+    background-color: rgb(210, 210, 210);
+}
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin: 1.5em;
+}
+img{
+    height: 45vh;
+}
+article div{
+    display: inline-block;
+}
