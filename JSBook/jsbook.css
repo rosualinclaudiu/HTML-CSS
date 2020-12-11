@@ -21,6 +21,12 @@ a{
     color: rgb(200, 200, 200);
     text-decoration: none;
     margin-right: 1.5em;
+    transition-property: font-size;
+    transition-duration: 0.4s;
+}
+a:hover{
+    color: tomato;
+    font-size: 1.1em;
 }
 article{
     background-color: rgb(210, 210, 210);
@@ -34,6 +40,12 @@ h1{
 }
 img{
     height: 45vh;
+    transition-duration: 1s;
+    
+}
+img:hover{
+    height: 60vh;
+    transform: rotate(360deg);
 }
 article div{
     display: inline-block;
