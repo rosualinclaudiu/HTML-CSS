@@ -14,7 +14,7 @@ header{
     text-align: center;
     padding: 1em;
 }
-li{
+header li{
     display: inline;
 }
 a{
@@ -24,6 +24,8 @@ a{
 }
 article{
     background-color: rgb(210, 210, 210);
+    text-align: center;
+    padding-bottom: 4em;
 }
 h1{
     font-family: 'Courier New', Courier, monospace;
@@ -35,4 +37,30 @@ img{
 }
 article div{
     display: inline-block;
+    vertical-align: middle;
+    
+}
+article ul {
+    list-style-type: none;
+}
+article li {
+    padding: 2em;
+}
+input[type="button"]{
+    background-color: orange;
+    border-radius: 0.3em;
+    border-style: none;
+    padding: 0.3em 1em;
+    color: white;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+footer{
+    background-color: rgb(39, 39, 39);
+    color: white;
+    text-align: center;
+    padding: 2em 0;
+}
+p{
+    margin-bottom: 2em;
 }
