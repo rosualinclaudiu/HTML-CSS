@@ -64,7 +64,8 @@ img:hover{
     /* height: 60vh; */
     transform: rotate(360deg);
     transform: translate(50px, 100px);
-    transform: scale(1.4);
+    transform: scale(1.5);
+    opacity: 0.5;
 }
 article div{
     display: inline-block;
