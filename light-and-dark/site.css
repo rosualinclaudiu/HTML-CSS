@@ -28,6 +28,7 @@ nav ul li {
     position: relative;
     top: -0.1em;
     cursor: pointer;
+    font-family: "Font Awesome 5 Free";
 }
 div {
     height: 40vh;
